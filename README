@@ -1,0 +1,22 @@
+Three Jupyter notebooks are provided. These are:
+single_scenario_analysis
+normalized_collisions
+speed_analysis
+
+single_scenario_analysis: Analyses all runs for a single scenario.
+This produces all single-scenario plots, and the aggregate values used in multi-scenario plots.
+Aggregate values were added manually to the following files:
+normalized_average_collisions2.csv
+flow_measurements2.csv
+speed_analysis.ods
+
+
+normalized_collisions: Produces plot for number of collisions against non-adherence level (Figure 4).
+Uses data from normalized_average_collisions2.csv
+
+
+speed_analysis: Produces plot for average speed against number of vehicles (Figure 5)
+Uses data from flow_measurements2.csv
+
+
+The results from speed_analysis.ods are the results from Table 4 (average speed, spread, vehicles under 5mp). 
