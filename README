@@ -21,5 +21,9 @@ Uses data from normalized_average_collisions2.csv
 speed_analysis: Produces plot for average speed against number of vehicles (Figure 5)
 Uses data from flow_measurements2.csv
 
+Spatial analysis of velocity magnitude and vehicle locations: the python notebook used to visualise 
+vehicles locations and their magnitude can be found in the Spatial_Visualisations_Magnitude_VLocation.ipynb notebook.
+The results from this analysis is located in the Spatial_Results folder.
+
 
 The results from speed_analysis.ods are the results from Table 4 (average speed, spread, vehicles under 5mp). 
